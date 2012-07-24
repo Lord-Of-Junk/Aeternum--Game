@@ -15,7 +15,6 @@ Ever moving downward!
 
 Eventual features:
 +  Actually doing stuff!
-+    Including:
 +    Digging!
 +    Mining!
 +    Walking!
