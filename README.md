@@ -6,28 +6,26 @@ has stagnated. In fact, it has even declined a bit. So, here you are, a miner in
 digging deep into the earth. You must tunnel, mine, and dig. Discovering ores and dodging lava
 pools.
 
-Ever moving downward!
+Ever moving downward!\n\n
 
 
-==============
 
-Eventual features:
-  Actually doing stuff!
-    Including:
-    Digging!
-    Mining!
-    Walking!
-    Actually seeing the map!
-  Air quality!
-  Pressure!
-  More ores!
+Eventual features:\n
+  Actually doing stuff!\n
+    Including:\n
+    Digging!\n
+    Mining!\n
+    Walking!\n
+    Actually seeing the map!\n
+  Air quality!\n
+  Pressure!\n
+  More ores!\n
   
-==============
 
-Current features:
-  2D grids featuring:
-    Lava
-    Rock
-    Wallite (unbreakable)
-    Bauxite- The ore!
+Current features:\n
+  2D grids featuring:\n
+    Lava\n
+    Rock\n
+    Wallite (unbreakable)\n
+    Bauxite- The ore!\n
   
