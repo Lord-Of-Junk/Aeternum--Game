@@ -1,5 +1,5 @@
 This directory contains the "controller" files for the Model-View-Controller
-scheme of the Aeternus game.  
+scheme of the Aeternum game.  
 
 I am currently studying a few HTML5 Canvas "Game Engines" that are featured
 in some of the best HTML5 Canvas books.
