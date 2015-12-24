@@ -1,33 +1,27 @@
 Aeternum--Game
 ==============
 
-This is a game set 80 years in the future. Industry has grown and prosper as technological growth
-has stagnated. In fact, it has even declined to the point it was at the beggining of the industrial revolution.
-Instead of sophisticated drilling machines, we have degressed back to the point of having miners walk into the
-caves and mines, pickaxes in hand. The must brave lava, cave-ins and even bizare creatures. You play as one of 
-these poor souls; trying to scrape a living from the bowels of the earth. You must dig up ores, mine out new paths
-and make new diescoveries. So, here you are, a miner in the year 2092, digging deep into the earth. You must tunnel,
-mine, and dig. Discovering ores and dodging lava pools.
+"Good Morning valued employee number *fzzzzzt* It is day *bzzzzzzt* of your *kzzzzzzt* day work excursion! As always we expect peak efficiency from our workers. Remember unproductive workers are unfulfilled workers!" The intercom fizzled out, as it always did after morning announcements. Ugh. Another day, more work. Digging more, building more, I better get started...
 
-Ever moving downward!
+This game is getting a complete reboot! Fresh coat of paint, new foundation, and a renovated idea! Now, along with digging and exploring you will be inventing, learning, surviving, and perhaps even coming to understand your mysterious origins and exactly why you are down here diggin.
 
+Ever moving downward! - _Not Co. Company Motto_
 
+Upcoming Features:
+- Generated Ores with Generated Properties
+- Inventing System
+- Moving!
+- Digging!
+- Excitement!
+- Hazards
+  - Heat
+  - Pressure
+  - Oxygen
+  - Strange and Ominous Happenstances
+- ???
+- Profits!
 
-Eventual features:
-+  Actually doing stuff!
-+    Digging!
-+    Mining!
-+    Walking!
-+    Actually seeing the map!
-+  Air quality!
-+  Pressure!
-+  More ores!
-  
+Implented Features:
+- Grids!
 
-Current features:
-+  2D grids featuring:
-+    Lava
-+    Rock
-+    Wallite (unbreakable)
-+    Bauxite- The ore!
   
