@@ -14,4 +14,4 @@ in the final product.
 
 --mFragin  July 30th, 2012
 
-
+As of December 23, 2015 this folder is deprecated. Unless mFragin wishes to return and update it of course! --LoJ
