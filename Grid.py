@@ -26,7 +26,7 @@ class Thing(object):
     def whereAmI(self):
         return tuple(self.coords)
 
-#Tiles are special things that will designate what the ground looks like.
+#Tiles are special things that will designate what the ground looks like. These are in the Grid Class because they do not fir in other places
 class Tile(Thing):
     
     def __init__(self, containing_grid, coordinates, tile_id):
