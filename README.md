@@ -3,11 +3,9 @@ Aeternum--Game
 
 "Good Morning valued employee number *fzzzzzt* It is day *bzzzzzzt* of your *kzzzzzzt* day work excursion! As always we expect peak efficiency from our workers. Remember unproductive workers are unfulfilled workers!" The intercom fizzled out, as it always did after morning announcements. Ugh. Another day, more work. Digging more, building more, I better get started...
 
-This game is getting a complete reboot! Fresh coat of paint, new foundation, and a renovated idea! Now, along with digging and exploring you will be inventing, learning, surviving, and perhaps even coming to understand your mysterious origins and exactly why you are down here diggin.
+This game is getting a complete reboot! Fresh coat of paint, new foundation, and a renovated idea! Now, along with digging and exploring you will be inventing, learning, surviving, and perhaps even coming to understand your mysterious origins and exactly why you are down here diggin'. It has been under active development for quite a long time and I return to it periodically.
 
 Ever moving downward! - _Not Co. Company Motto_
-
-So this is a game project that I have slowly been developing and contributing over a long time and frankly will be writing for a long time as well.
 
 Upcoming Features:
 - Generated Ores with Generated Properties
