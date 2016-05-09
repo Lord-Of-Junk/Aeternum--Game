@@ -7,6 +7,8 @@ This game is getting a complete reboot! Fresh coat of paint, new foundation, and
 
 Ever moving downward! - _Not Co. Company Motto_
 
+So this is a game project that I have slowly been developing and contributing over a long time and frankly will be writing for a long time as well.
+
 Upcoming Features:
 - Generated Ores with Generated Properties
 - Inventing System
@@ -21,7 +23,7 @@ Upcoming Features:
 - ???
 - Profits!
 
-Implented Features:
+Implemented Features:
 - Grids!
 
   
